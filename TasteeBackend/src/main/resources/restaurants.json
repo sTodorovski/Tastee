@@ -1,0 +1,4027 @@
+[
+    {
+        "name": "Пелистер",
+        "latitude": 41.9953401,
+        "longitude": 21.4314898,
+        "phone": "",
+        "website": "https://www.pelisterhotel.com.mk/"
+    },
+    {
+        "name": "Бифе Челик",
+        "latitude": 41.9936863,
+        "longitude": 21.411664700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Brioni",
+        "latitude": 41.4347276,
+        "longitude": 22.021555300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ramazzoti",
+        "latitude": 41.441206300000005,
+        "longitude": 22.011510700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Exclusive",
+        "latitude": 41.4410295,
+        "longitude": 22.0096102,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Интермецо",
+        "latitude": 41.9947432,
+        "longitude": 21.4140669,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Скар",
+        "latitude": 41.368101,
+        "longitude": 21.248574700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бенетон",
+        "latitude": 41.3681312,
+        "longitude": 21.2486257,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Cardak",
+        "latitude": 41.506560300000004,
+        "longitude": 21.2151321,
+        "phone": "+38978420959",
+        "website": ""
+    },
+    {
+        "name": "Lisec",
+        "latitude": 41.507522300000005,
+        "longitude": 21.217708700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пешна",
+        "latitude": 41.541066,
+        "longitude": 21.2442677,
+        "phone": "",
+        "website": "www.pesnamotel.com.mk"
+    },
+    {
+        "name": "Kico",
+        "latitude": 41.4412564,
+        "longitude": 22.011112800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Riben restorant",
+        "latitude": 41.440786700000004,
+        "longitude": 22.013541800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Spandja",
+        "latitude": 41.441158200000004,
+        "longitude": 22.012133600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пролет",
+        "latitude": 41.9153534,
+        "longitude": 22.4125757,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гратче",
+        "latitude": 41.959650700000005,
+        "longitude": 22.4062744,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тополник",
+        "latitude": 41.9561396,
+        "longitude": 22.4078181,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ribnik Blatec",
+        "latitude": 41.8339517,
+        "longitude": 22.6230389,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Под Кале",
+        "latitude": 42.0047876,
+        "longitude": 21.4307036,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Џино",
+        "latitude": 41.994379200000004,
+        "longitude": 21.434043000000003,
+        "phone": "+389 2 3121109",
+        "website": "http://www.restorangino.mk/"
+    },
+    {
+        "name": "Плаза де Торос",
+        "latitude": 41.995273000000005,
+        "longitude": 21.4350466,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Luna 2",
+        "latitude": 41.4392415,
+        "longitude": 22.650244400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Rubiko",
+        "latitude": 41.4895975,
+        "longitude": 22.095345700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Zika",
+        "latitude": 41.5237914,
+        "longitude": 21.952249400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Makedonska Kuka",
+        "latitude": 41.433725800000005,
+        "longitude": 22.0136796,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Енрико",
+        "latitude": 42.003146400000006,
+        "longitude": 21.399519100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Мило",
+        "latitude": 41.69802,
+        "longitude": 22.864500000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ристово Меанче 2",
+        "latitude": 41.70396,
+        "longitude": 22.85985,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Мрс",
+        "latitude": 41.704567100000006,
+        "longitude": 22.8571233,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дивине",
+        "latitude": 41.7301724,
+        "longitude": 22.9354984,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Moneta",
+        "latitude": 41.4389417,
+        "longitude": 22.0187521,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Сен Тропе",
+        "latitude": 40.9615847,
+        "longitude": 20.7819982,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Taim Lounge & Bar",
+        "latitude": 41.4343725,
+        "longitude": 22.016945800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Т'ГА ЗА ЈУГ",
+        "latitude": 41.1769374,
+        "longitude": 20.6762151,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Bonaca",
+        "latitude": 41.177840100000004,
+        "longitude": 20.6769202,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Prince",
+        "latitude": 42.019892600000006,
+        "longitude": 21.4349372,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Две капки",
+        "latitude": 42.0028178,
+        "longitude": 21.392593100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "иВ",
+        "latitude": 41.986900600000006,
+        "longitude": 21.4368796,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Арена",
+        "latitude": 41.0364578,
+        "longitude": 21.353334500000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Туpиcт",
+        "latitude": 42.000309900000005,
+        "longitude": 21.4367576,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Tropic",
+        "latitude": 41.397022,
+        "longitude": 22.0333387,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Moskva",
+        "latitude": 41.434716800000004,
+        "longitude": 22.004638,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "LUMA",
+        "latitude": 42.1656891,
+        "longitude": 21.187430600000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Maestro Cafe",
+        "latitude": 42.0080851,
+        "longitude": 20.9731075,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "River Side Garden",
+        "latitude": 41.995381900000005,
+        "longitude": 21.3274583,
+        "phone": "+38970890606",
+        "website": ""
+    },
+    {
+        "name": "Топаз",
+        "latitude": 41.997915500000005,
+        "longitude": 21.4122694,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Веки",
+        "latitude": 42.000855,
+        "longitude": 21.3989291,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Чешма",
+        "latitude": 41.9841333,
+        "longitude": 21.439045500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Трпеза",
+        "latitude": 41.9710708,
+        "longitude": 21.445568700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Кум",
+        "latitude": 41.9772623,
+        "longitude": 21.437991200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рустикана",
+        "latitude": 41.9997295,
+        "longitude": 21.4078483,
+        "phone": "+38971383382",
+        "website": ""
+    },
+    {
+        "name": "Долап",
+        "latitude": 41.9985008,
+        "longitude": 21.415982,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restoran Tomi",
+        "latitude": 42.0464013,
+        "longitude": 21.346296300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Jaksa",
+        "latitude": 42.045560800000004,
+        "longitude": 21.346934700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Meraklii",
+        "latitude": 42.029990600000005,
+        "longitude": 21.350818500000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ѕидан Мост",
+        "latitude": 41.591053,
+        "longitude": 21.4700306,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Рагуза 919",
+        "latitude": 41.9782792,
+        "longitude": 21.4820381,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Старо Буре",
+        "latitude": 42.0035286,
+        "longitude": 21.3975417,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "62",
+        "latitude": 42.006518500000006,
+        "longitude": 21.3741187,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Винска Куќа",
+        "latitude": 41.4334495,
+        "longitude": 22.0228438,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Снупи",
+        "latitude": 41.717086200000004,
+        "longitude": 21.775350900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Аражок",
+        "latitude": 41.036449000000005,
+        "longitude": 21.3528594,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Балукс",
+        "latitude": 41.036449000000005,
+        "longitude": 21.353910900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Јавор Џоко",
+        "latitude": 41.1651121,
+        "longitude": 22.5045562,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Одисеја",
+        "latitude": 41.9842561,
+        "longitude": 21.486882400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Официрски",
+        "latitude": 41.7176332,
+        "longitude": 21.7775232,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Сина Сала",
+        "latitude": 41.7153245,
+        "longitude": 21.784238300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Розе Сала",
+        "latitude": 41.715468800000004,
+        "longitude": 21.7842139,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Крчма",
+        "latitude": 41.994627400000006,
+        "longitude": 21.4151525,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Marana",
+        "latitude": 41.9904847,
+        "longitude": 21.420490700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pastel Wine & Dine",
+        "latitude": 41.9947645,
+        "longitude": 21.4245254,
+        "phone": "+389 2 3214447",
+        "website": "http://pastel.mk/"
+    },
+    {
+        "name": "511",
+        "latitude": 41.9922398,
+        "longitude": 21.4163482,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Акорд",
+        "latitude": 41.997229100000006,
+        "longitude": 21.408660100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Баба Цана",
+        "latitude": 42.136522400000004,
+        "longitude": 21.7204006,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Либертас",
+        "latitude": 41.9987097,
+        "longitude": 21.4207447,
+        "phone": "+38970567295",
+        "website": ""
+    },
+    {
+        "name": "Корнер",
+        "latitude": 42.1235585,
+        "longitude": 21.7318423,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан СОНЦЕ - Restaurant SONCE",
+        "latitude": 41.381142600000004,
+        "longitude": 22.819584000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рим-Париз",
+        "latitude": 42.131726300000004,
+        "longitude": 21.718157700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ексклузив",
+        "latitude": 41.977510900000006,
+        "longitude": 21.4456487,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан „Александар“",
+        "latitude": 42.057858800000005,
+        "longitude": 21.4514149,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дарвик",
+        "latitude": 42.053750300000004,
+        "longitude": 21.4523161,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тица - Елени",
+        "latitude": 42.001971600000005,
+        "longitude": 21.464739700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тренд",
+        "latitude": 41.9957062,
+        "longitude": 21.4304595,
+        "phone": "",
+        "website": "https://caffetrend.mk/"
+    },
+    {
+        "name": "Дестан",
+        "latitude": 41.9987513,
+        "longitude": 21.4204158,
+        "phone": "+38923127324",
+        "website": "https://destan.mk/pocetna/"
+    },
+    {
+        "name": "Ана Кристи",
+        "latitude": 42.0034064,
+        "longitude": 21.3995909,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фотка",
+        "latitude": 42.0017742,
+        "longitude": 21.3992299,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Осоговски Бисер",
+        "latitude": 42.0371055,
+        "longitude": 22.353204100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Park",
+        "latitude": 42.1826707,
+        "longitude": 22.1639057,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гого Монд",
+        "latitude": 42.1712493,
+        "longitude": 22.0980414,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Извор",
+        "latitude": 41.6150472,
+        "longitude": 21.220519300000003,
+        "phone": "+389 45 275 200;+389 78 281 261;+388 70 950 009",
+        "website": ""
+    },
+    {
+        "name": "Balila",
+        "latitude": 41.992224500000006,
+        "longitude": 21.416522,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Urban Grill",
+        "latitude": 41.4084933,
+        "longitude": 22.2452001,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Kole",
+        "latitude": 41.4098411,
+        "longitude": 22.2432474,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lovec",
+        "latitude": 41.4092999,
+        "longitude": 22.2439153,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бруклински",
+        "latitude": 42.0001581,
+        "longitude": 21.4252581,
+        "phone": "+389 2 6091844",
+        "website": ""
+    },
+    {
+        "name": "Бела виста",
+        "latitude": 41.995336,
+        "longitude": 21.434829500000003,
+        "phone": "",
+        "website": "www.bellavistaskopje.mk"
+    },
+    {
+        "name": "Каспер",
+        "latitude": 41.3459768,
+        "longitude": 21.5546262,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пинк Пантер",
+        "latitude": 41.3453989,
+        "longitude": 21.5543097,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Парадизо",
+        "latitude": 41.3460137,
+        "longitude": 21.554379700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Два Елена",
+        "latitude": 41.993167,
+        "longitude": 21.408059400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Македонска куќа",
+        "latitude": 41.076418000000004,
+        "longitude": 20.801631800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Капри",
+        "latitude": 41.9176668,
+        "longitude": 22.4104224,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizza Metro",
+        "latitude": 41.029564400000005,
+        "longitude": 21.3356564,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Aquarium",
+        "latitude": 41.9172558,
+        "longitude": 22.4104385,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Balkanlux",
+        "latitude": 41.918076,
+        "longitude": 22.4102588,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Bakery Kamel",
+        "latitude": 41.9187207,
+        "longitude": 22.410178300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Арабеска",
+        "latitude": 41.9953042,
+        "longitude": 21.430269000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "ТДЦ-3",
+        "latitude": 41.146095800000005,
+        "longitude": 22.5011678,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Грош",
+        "latitude": 41.1084477,
+        "longitude": 20.8123651,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Билјанини Извори",
+        "latitude": 41.1028959,
+        "longitude": 20.814870300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lihnidos",
+        "latitude": 41.1125167,
+        "longitude": 20.7989301,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kotva",
+        "latitude": 41.104151,
+        "longitude": 20.8079475,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Hazel",
+        "latitude": 41.994595000000004,
+        "longitude": 21.4119198,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Atva",
+        "latitude": 41.5115542,
+        "longitude": 20.9508952,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вкус",
+        "latitude": 41.437835400000004,
+        "longitude": 22.6452777,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Јавор Агапи",
+        "latitude": 41.162275900000004,
+        "longitude": 22.4963093,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фиш",
+        "latitude": 42.0131608,
+        "longitude": 21.4117168,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Loven Dom",
+        "latitude": 41.435253700000004,
+        "longitude": 22.632892100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Етно Село",
+        "latitude": 42.157494400000004,
+        "longitude": 21.862568000000003,
+        "phone": "+38975497749",
+        "website": "https://www.etnoselotimcevski.com/"
+    },
+    {
+        "name": "Fratelis",
+        "latitude": 42.132460300000005,
+        "longitude": 21.8645555,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Buki",
+        "latitude": 41.4327641,
+        "longitude": 22.013033500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Идила",
+        "latitude": 41.7297622,
+        "longitude": 22.9422359,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Борче",
+        "latitude": 42.190273000000005,
+        "longitude": 22.3058553,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Облаче",
+        "latitude": 42.192289,
+        "longitude": 22.3089155,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "македонија",
+        "latitude": 42.212312700000005,
+        "longitude": 22.3466279,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Градина",
+        "latitude": 41.9650429,
+        "longitude": 21.4727082,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Белведере",
+        "latitude": 41.112310300000004,
+        "longitude": 20.8011769,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Emka",
+        "latitude": 41.986155000000004,
+        "longitude": 20.958638,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Bien",
+        "latitude": 41.991573100000004,
+        "longitude": 21.452411400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Шизик",
+        "latitude": 42.024410700000004,
+        "longitude": 22.588940100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Osmica",
+        "latitude": 42.017958500000006,
+        "longitude": 22.587663000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "\"Kaj Govedoto\" Restaurant",
+        "latitude": 42.0170338,
+        "longitude": 22.591444900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Shizik Restaurant",
+        "latitude": 42.0178835,
+        "longitude": 22.5886582,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "\"Koko\" Restaurant",
+        "latitude": 42.0195336,
+        "longitude": 22.5899229,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Prestol",
+        "latitude": 41.0678423,
+        "longitude": 20.8016787,
+        "phone": "+389 46277858",
+        "website": "http://www.hotelprestol.com"
+    },
+    {
+        "name": "Granit",
+        "latitude": 41.066643400000004,
+        "longitude": 20.800900900000002,
+        "phone": "+389 46207100",
+        "website": "https://www.hotelgranit.com.mk/"
+    },
+    {
+        "name": "Стар цинар",
+        "latitude": 41.1163875,
+        "longitude": 20.8006074,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Meydan",
+        "latitude": 41.116341000000006,
+        "longitude": 20.8002909,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Dva Bisera",
+        "latitude": 41.045940200000004,
+        "longitude": 20.8031982,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фopтунa",
+        "latitude": 41.1140172,
+        "longitude": 20.8026136,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пивница АН",
+        "latitude": 42.0000179,
+        "longitude": 21.4366005,
+        "phone": "+389 02 321 2111",
+        "website": "http://pivnicaan.mk/"
+    },
+    {
+        "name": "Target",
+        "latitude": 41.639759000000005,
+        "longitude": 22.460188000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Jocker pizza",
+        "latitude": 41.640957,
+        "longitude": 22.460412,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Getsbi pizza",
+        "latitude": 41.640184000000005,
+        "longitude": 22.461378,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vrteska",
+        "latitude": 41.634656,
+        "longitude": 22.465724,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Gone",
+        "latitude": 41.633203800000004,
+        "longitude": 22.4648612,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Karagjoz",
+        "latitude": 41.636566,
+        "longitude": 22.462943000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Magmar",
+        "latitude": 41.629596,
+        "longitude": 22.44631,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Beverli hils",
+        "latitude": 41.639065,
+        "longitude": 22.461327,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Shona",
+        "latitude": 41.639133,
+        "longitude": 22.462186000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Santa Maria pizza",
+        "latitude": 41.633895,
+        "longitude": 22.456789,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Makedonsko Sonce",
+        "latitude": 41.637611,
+        "longitude": 22.463272,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lastik",
+        "latitude": 41.639250000000004,
+        "longitude": 22.462199000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lipa",
+        "latitude": 41.637782,
+        "longitude": 22.465528000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Maslac",
+        "latitude": 41.638767,
+        "longitude": 22.463060000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizzeria Americano",
+        "latitude": 41.115590100000006,
+        "longitude": 20.8000763,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Cuna",
+        "latitude": 41.115966,
+        "longitude": 20.800088000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Destan",
+        "latitude": 41.9947506,
+        "longitude": 21.4319604,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ла Тераца",
+        "latitude": 41.9950911,
+        "longitude": 21.4317257,
+        "phone": "+389 2 3113380",
+        "website": ""
+    },
+    {
+        "name": "Brooklyn Lounge Bar",
+        "latitude": 42.0045421,
+        "longitude": 21.391000400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Лозница",
+        "latitude": 41.9953743,
+        "longitude": 21.4099065,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тераца",
+        "latitude": 42.1214792,
+        "longitude": 21.744872700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Барбакан",
+        "latitude": 42.006249000000004,
+        "longitude": 21.406304600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пилав Тепе",
+        "latitude": 41.6245987,
+        "longitude": 22.3171977,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Либеро",
+        "latitude": 41.9670002,
+        "longitude": 22.775975000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Антика",
+        "latitude": 41.9666207,
+        "longitude": 22.772864300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Бубето",
+        "latitude": 41.9671309,
+        "longitude": 22.774372300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Палма",
+        "latitude": 41.9655104,
+        "longitude": 22.7714652,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Панорама",
+        "latitude": 41.9667157,
+        "longitude": 22.7756155,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Iceberg",
+        "latitude": 41.966369,
+        "longitude": 22.7731031,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вигор",
+        "latitude": 41.9665941,
+        "longitude": 22.7734415,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Трла",
+        "latitude": 41.9641901,
+        "longitude": 22.772658,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Gostilnica Zvon-Trejd",
+        "latitude": 41.963414,
+        "longitude": 22.7736839,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Бела",
+        "latitude": 41.9191256,
+        "longitude": 21.459115500000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Мал Одмор",
+        "latitude": 41.5162501,
+        "longitude": 22.6153456,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рибник",
+        "latitude": 41.633736500000005,
+        "longitude": 22.245106200000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Чоме",
+        "latitude": 41.5068787,
+        "longitude": 21.2166228,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ривиера",
+        "latitude": 41.1119481,
+        "longitude": 20.801555,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ла Бела",
+        "latitude": 41.110451100000006,
+        "longitude": 20.8039749,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Royal View",
+        "latitude": 41.109536000000006,
+        "longitude": 20.8052329,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizza Amica",
+        "latitude": 41.982471600000004,
+        "longitude": 21.4725098,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Злате",
+        "latitude": 41.992195200000005,
+        "longitude": 21.442238,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Меана Дедо Илија",
+        "latitude": 41.545315,
+        "longitude": 21.2494143,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "бед бунар",
+        "latitude": 42.0084895,
+        "longitude": 21.4010837,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "casa leone",
+        "latitude": 42.0138119,
+        "longitude": 20.886724100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Sach Pizza and Coffe",
+        "latitude": 42.0077518,
+        "longitude": 20.9750309,
+        "phone": "+389 44 335 701",
+        "website": ""
+    },
+    {
+        "name": "Ribimiluss",
+        "latitude": 42.0818924,
+        "longitude": 21.403709600000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "бимекс",
+        "latitude": 41.9748528,
+        "longitude": 21.4093282,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Златна Ружа Капитол Мол",
+        "latitude": 41.9859376,
+        "longitude": 21.4661426,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Makedonska sofra",
+        "latitude": 41.9871974,
+        "longitude": 21.4365756,
+        "phone": "+38978929010",
+        "website": ""
+    },
+    {
+        "name": "Етно кујна Вила Елена",
+        "latitude": 42.138244400000005,
+        "longitude": 21.4448873,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Sky ресторанот",
+        "latitude": 41.9973163,
+        "longitude": 21.434577,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Amigos Мексиканска Кантина",
+        "latitude": 41.993258700000005,
+        "longitude": 21.430095700000003,
+        "phone": "+389 71 230314",
+        "website": "http://www.amigos.com.mk/"
+    },
+    {
+        "name": "Era",
+        "latitude": 41.9995695,
+        "longitude": 20.9614188,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Boss",
+        "latitude": 41.9976539,
+        "longitude": 20.961125000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Oaza",
+        "latitude": 41.845356800000005,
+        "longitude": 20.973495500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Соул кичен",
+        "latitude": 41.9956182,
+        "longitude": 21.4339535,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Classic Restaurant",
+        "latitude": 41.7375454,
+        "longitude": 22.1911884,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Via Ignatia",
+        "latitude": 41.235720400000005,
+        "longitude": 20.5959852,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Мулино Гарден",
+        "latitude": 41.9495659,
+        "longitude": 21.4212497,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Emporium",
+        "latitude": 42.0041795,
+        "longitude": 20.9894268,
+        "phone": "+389 78 388 265",
+        "website": ""
+    },
+    {
+        "name": "Fontana Grill",
+        "latitude": 42.0042478,
+        "longitude": 20.989468000000002,
+        "phone": "+389 70 664 471",
+        "website": ""
+    },
+    {
+        "name": "Restoran Prado",
+        "latitude": 42.1320465,
+        "longitude": 21.7206493,
+        "phone": "+38931430100",
+        "website": "https://m.facebook.com/prado.kumanovo/"
+    },
+    {
+        "name": "Лавче",
+        "latitude": 41.9969599,
+        "longitude": 21.416006300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Антико",
+        "latitude": 41.1124473,
+        "longitude": 20.7976348,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Dzek",
+        "latitude": 41.9371686,
+        "longitude": 21.6186125,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бабе",
+        "latitude": 42.0030463,
+        "longitude": 21.4002154,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vavilon",
+        "latitude": 41.013059500000004,
+        "longitude": 21.346680000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Elita",
+        "latitude": 41.231591,
+        "longitude": 22.6366903,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Златна вилушка",
+        "latitude": 41.991529500000006,
+        "longitude": 21.465627400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Чардак",
+        "latitude": 41.7058839,
+        "longitude": 22.8581733,
+        "phone": "+38978465474",
+        "website": "http://www.cardak.mk"
+    },
+    {
+        "name": "Ресторан Златник",
+        "latitude": 41.9788507,
+        "longitude": 21.4826634,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кебапчилница Тасе",
+        "latitude": 41.7388546,
+        "longitude": 22.1966748,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Домашна Кујна Прециз",
+        "latitude": 41.736955900000005,
+        "longitude": 22.1926047,
+        "phone": "",
+        "website": "https://www.facebook.com/DomasnakujnaPreciz-109208438394027/"
+    },
+    {
+        "name": "11",
+        "latitude": 42.0073877,
+        "longitude": 20.974629200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бане 2",
+        "latitude": 41.003561700000006,
+        "longitude": 20.804929,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Скара Стојче",
+        "latitude": 41.3431784,
+        "longitude": 21.552257,
+        "phone": "+38948419100",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Мал Одмор",
+        "latitude": 41.7018616,
+        "longitude": 20.7573957,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вила Веранда",
+        "latitude": 41.995354600000006,
+        "longitude": 21.3679919,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "еквестријан",
+        "latitude": 41.9883207,
+        "longitude": 21.452084300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Тетка Вики",
+        "latitude": 41.7014251,
+        "longitude": 20.756666000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Етно Куќа",
+        "latitude": 41.1085785,
+        "longitude": 21.006704300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Brioni 2008",
+        "latitude": 41.1168867,
+        "longitude": 20.7986796,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Exclusive Art Cuisine",
+        "latitude": 41.1169309,
+        "longitude": 20.798584100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "КУБИКС - Студио за Анимација",
+        "latitude": 42.008963,
+        "longitude": 20.971466000000003,
+        "phone": "",
+        "website": "http://www.kub-x.com/"
+    },
+    {
+        "name": "Kaj Serdarot",
+        "latitude": 41.999661800000005,
+        "longitude": 21.4362461,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Австриска палта",
+        "latitude": 41.9994953,
+        "longitude": 21.435540200000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Чамовски",
+        "latitude": 41.4433529,
+        "longitude": 22.643368300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Royal Food Zlate",
+        "latitude": 41.9864102,
+        "longitude": 21.5888229,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Four",
+        "latitude": 42.006114700000005,
+        "longitude": 21.427105700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дион",
+        "latitude": 41.9957513,
+        "longitude": 21.433538600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Буре Срна",
+        "latitude": 42.0045887,
+        "longitude": 21.3936186,
+        "phone": "+38923066676",
+        "website": "https://buresrna.mk/"
+    },
+    {
+        "name": "Restoran Elita",
+        "latitude": 41.944400900000005,
+        "longitude": 20.927288100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Nes Komerc",
+        "latitude": 41.976507000000005,
+        "longitude": 20.9398801,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Niki",
+        "latitude": 41.948509800000004,
+        "longitude": 20.929929,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан АтлантиС Смоларски Водопат",
+        "latitude": 41.3704959,
+        "longitude": 22.9006024,
+        "phone": "38978314212",
+        "website": "https://www.atlantis.mk/"
+    },
+    {
+        "name": "Drilon",
+        "latitude": 41.510102700000004,
+        "longitude": 20.5226109,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Тоше на Ќоше",
+        "latitude": 42.003052100000005,
+        "longitude": 21.4648097,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Цуцла",
+        "latitude": 42.0755301,
+        "longitude": 21.051470600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Трио",
+        "latitude": 42.072656,
+        "longitude": 21.0512358,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Osogovec",
+        "latitude": 42.202777100000006,
+        "longitude": 22.335579300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бурими 3",
+        "latitude": 41.765046000000005,
+        "longitude": 20.837541100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Beach Bar Mystic",
+        "latitude": 40.939142600000004,
+        "longitude": 20.914225700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гостилница Софра",
+        "latitude": 41.9932328,
+        "longitude": 21.5078989,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Кремисимо",
+        "latitude": 41.9951884,
+        "longitude": 21.5099084,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рибник Воденица",
+        "latitude": 41.9752689,
+        "longitude": 22.818623900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restoran Sarisa",
+        "latitude": 41.1373679,
+        "longitude": 22.498847700000002,
+        "phone": "+389 78717607",
+        "website": ""
+    },
+    {
+        "name": "Конак Јазбиње",
+        "latitude": 41.995362500000006,
+        "longitude": 21.6126147,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vodenicata 3",
+        "latitude": 42.190380000000005,
+        "longitude": 22.359848900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Грамоз",
+        "latitude": 41.521539100000005,
+        "longitude": 20.5266276,
+        "phone": "+38970241533",
+        "website": ""
+    },
+    {
+        "name": "Ultra",
+        "latitude": 41.9912803,
+        "longitude": 20.960236700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Riben Restoran Bigor",
+        "latitude": 41.7704206,
+        "longitude": 20.845909300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vila Raskrsnica",
+        "latitude": 40.9075981,
+        "longitude": 21.1624357,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Royal Lounge Bar",
+        "latitude": 42.205828000000004,
+        "longitude": 22.336137,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Каневче",
+        "latitude": 41.1110307,
+        "longitude": 20.7903431,
+        "phone": "+38946262928",
+        "website": ""
+    },
+    {
+        "name": "Свети Наум",
+        "latitude": 40.9140655,
+        "longitude": 20.7410175,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Еснав",
+        "latitude": 42.009057000000006,
+        "longitude": 20.9756816,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Тетовска Куќа",
+        "latitude": 42.0089945,
+        "longitude": 20.975829100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пица-Ресторан Пунто Верде",
+        "latitude": 42.0095705,
+        "longitude": 20.9758432,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гарден Ресторант",
+        "latitude": 42.006902600000004,
+        "longitude": 20.9805382,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пропер",
+        "latitude": 40.9721129,
+        "longitude": 21.057180900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Долна Порта",
+        "latitude": 41.112224000000005,
+        "longitude": 20.7982072,
+        "phone": "+389 70 303 717",
+        "website": ""
+    },
+    {
+        "name": "Бизнис",
+        "latitude": 42.0195979,
+        "longitude": 21.4412533,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Парк",
+        "latitude": 42.003985300000004,
+        "longitude": 21.4280925,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кантина",
+        "latitude": 42.0006129,
+        "longitude": 21.4191718,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Аликас",
+        "latitude": 42.0353232,
+        "longitude": 21.404415,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "БИЧ ЕНД ЛОУНЏ ЏОВАНИ",
+        "latitude": 41.0902867,
+        "longitude": 20.799108,
+        "phone": "070230030",
+        "website": ""
+    },
+    {
+        "name": "Salomon fud",
+        "latitude": 41.4409617,
+        "longitude": 22.6388602,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Грин Вилиџ",
+        "latitude": 41.9150979,
+        "longitude": 21.5712443,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "7 Скара Ресторан",
+        "latitude": 41.994834600000004,
+        "longitude": 21.427712800000002,
+        "phone": "+38923224000",
+        "website": "http://7.mk/skara-restoran/"
+    },
+    {
+        "name": "Мезе Бар",
+        "latitude": 41.989811200000005,
+        "longitude": 21.449305000000003,
+        "phone": "+38926121214",
+        "website": ""
+    },
+    {
+        "name": "Ubac",
+        "latitude": 42.0084679,
+        "longitude": 21.3678533,
+        "phone": "+38972555005",
+        "website": ""
+    },
+    {
+        "name": "Gostilnica Gurman",
+        "latitude": 41.991648500000004,
+        "longitude": 21.4223088,
+        "phone": "+38923176200",
+        "website": ""
+    },
+    {
+        "name": "Enjoy",
+        "latitude": 41.1418435,
+        "longitude": 22.5012915,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дедо Цане",
+        "latitude": 41.9868025,
+        "longitude": 21.4193986,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizza Jakomo",
+        "latitude": 42.004437200000005,
+        "longitude": 21.3931934,
+        "phone": "+37976338668;+38978338668",
+        "website": "https://pizzajakomo.com/"
+    },
+    {
+        "name": "Star Ocean",
+        "latitude": 41.9915266,
+        "longitude": 21.427910400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Fitness house",
+        "latitude": 42.0005559,
+        "longitude": 21.4147067,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Gyro House",
+        "latitude": 42.0029936,
+        "longitude": 21.4000959,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Две Липи",
+        "latitude": 41.965475700000006,
+        "longitude": 22.7742657,
+        "phone": "",
+        "website": "https://www.facebook.com/meanadvelipi/"
+    },
+    {
+        "name": "Стар Лисец",
+        "latitude": 42.2075328,
+        "longitude": 22.3309502,
+        "phone": "+38970756364",
+        "website": ""
+    },
+    {
+        "name": "Аквариум",
+        "latitude": 42.2026632,
+        "longitude": 22.335623000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Скандал",
+        "latitude": 41.023682900000004,
+        "longitude": 21.341215100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пица Немо",
+        "latitude": 41.1126645,
+        "longitude": 20.7986505,
+        "phone": "+389 46 253 355",
+        "website": "http://www.pizzanemo.com"
+    },
+    {
+        "name": "Кафана Сокак",
+        "latitude": 41.9837709,
+        "longitude": 21.480844400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Oljo's Burger",
+        "latitude": 42.0023198,
+        "longitude": 21.4218407,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "кај сердарот",
+        "latitude": 41.9995926,
+        "longitude": 21.4366123,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тарапана",
+        "latitude": 41.9729164,
+        "longitude": 21.4565032,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дебар Маало",
+        "latitude": 42.0013292,
+        "longitude": 21.420574700000003,
+        "phone": "+38976219654",
+        "website": ""
+    },
+    {
+        "name": "Mermaid Terrace",
+        "latitude": 40.961735600000004,
+        "longitude": 20.782402400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Aleksandrija",
+        "latitude": 41.112136500000005,
+        "longitude": 20.7980683,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Осоговска Куќа",
+        "latitude": 41.9945499,
+        "longitude": 22.357214900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "МЦМ Мезе Бар",
+        "latitude": 42.0023813,
+        "longitude": 21.4235595,
+        "phone": "+38970250420",
+        "website": ""
+    },
+    {
+        "name": "Костарика",
+        "latitude": 42.002823500000005,
+        "longitude": 21.4239655,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Калабалак",
+        "latitude": 42.003366,
+        "longitude": 21.4242333,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Старо Скупи",
+        "latitude": 42.002881300000006,
+        "longitude": 21.4240111,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Занзибар",
+        "latitude": 42.0030128,
+        "longitude": 21.424021800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Идадија",
+        "latitude": 42.0013712,
+        "longitude": 21.421092100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Наџак",
+        "latitude": 42.001453000000005,
+        "longitude": 21.4214837,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Перо",
+        "latitude": 42.001496700000004,
+        "longitude": 21.420809300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Помодоро",
+        "latitude": 42.133361400000005,
+        "longitude": 21.7282115,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Gostilnica Estel",
+        "latitude": 41.999066400000004,
+        "longitude": 21.4236496,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Хотел Гогов",
+        "latitude": 41.7619502,
+        "longitude": 22.886935700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Стар сокак",
+        "latitude": 41.091386400000005,
+        "longitude": 21.0130069,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ambrella",
+        "latitude": 42.1333475,
+        "longitude": 21.713171900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "БЕЛАМИА",
+        "latitude": 42.013309400000004,
+        "longitude": 20.9660018,
+        "phone": "+389 44 331 332",
+        "website": ""
+    },
+    {
+        "name": "СНОШТИ МИНАВ",
+        "latitude": 41.9995917,
+        "longitude": 21.436115100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Планинарски дом Караџица",
+        "latitude": 41.7916113,
+        "longitude": 21.4234973,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторант Вита Аби",
+        "latitude": 41.7922445,
+        "longitude": 20.9082428,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кафана \"Дебар Маало\"",
+        "latitude": 42.000778000000004,
+        "longitude": 21.4201149,
+        "phone": "+38971279660",
+        "website": ""
+    },
+    {
+        "name": "Restauran Korab Trnica",
+        "latitude": 41.709688400000005,
+        "longitude": 20.688583700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Glamour",
+        "latitude": 41.651114400000004,
+        "longitude": 20.7363761,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Буре",
+        "latitude": 42.003161500000004,
+        "longitude": 21.4001853,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Terasa Utarna",
+        "latitude": 41.0544299,
+        "longitude": 20.812582600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ristorante Stazione",
+        "latitude": 41.1069789,
+        "longitude": 20.807528,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Dedo Dimo",
+        "latitude": 41.2434073,
+        "longitude": 20.8894257,
+        "phone": "+38946279595",
+        "website": "http://www.dedodimo.mk"
+    },
+    {
+        "name": "Ресторан Панорама",
+        "latitude": 41.1259308,
+        "longitude": 20.815704200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рибен Ресторан Добреноец",
+        "latitude": 41.510653500000004,
+        "longitude": 20.883968300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фурна",
+        "latitude": 41.503491700000005,
+        "longitude": 20.892894100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рибник Ресторан Оморани",
+        "latitude": 41.5475438,
+        "longitude": 21.6320595,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant \"Pod Drum\"",
+        "latitude": 41.1124068,
+        "longitude": 20.7980325,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kutmičevica",
+        "latitude": 41.2401095,
+        "longitude": 20.5881905,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Arcus",
+        "latitude": 42.128868600000004,
+        "longitude": 21.6985476,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pçela",
+        "latitude": 42.0002786,
+        "longitude": 21.437195300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Austrian Palace",
+        "latitude": 41.999571100000004,
+        "longitude": 21.435628100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Воденица",
+        "latitude": 41.994793200000004,
+        "longitude": 21.413512100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Zlatina",
+        "latitude": 42.0178073,
+        "longitude": 22.5925757,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restoran Frosina",
+        "latitude": 41.9959518,
+        "longitude": 21.4199442,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "EZO",
+        "latitude": 42.036596100000004,
+        "longitude": 21.4462164,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Меана Б Јавор Мрзенци",
+        "latitude": 42.0127048,
+        "longitude": 21.4100468,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Доминос Пица Аеродром",
+        "latitude": 41.983753500000006,
+        "longitude": 21.4701282,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pashina vodenica",
+        "latitude": 42.2228585,
+        "longitude": 22.3580161,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Верона",
+        "latitude": 41.739010900000004,
+        "longitude": 22.1928555,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гурман Ќоше",
+        "latitude": 41.7385497,
+        "longitude": 22.1921453,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Driada",
+        "latitude": 42.018950800000006,
+        "longitude": 20.9351278,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гостилница Сокаче",
+        "latitude": 41.717717300000004,
+        "longitude": 21.7788314,
+        "phone": "+38978349043",
+        "website": "https://m.facebook.com/profile.php?id=572126203244707&ref=content_filter"
+    },
+    {
+        "name": "Гарден Имиџ",
+        "latitude": 41.0309947,
+        "longitude": 21.331219,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Гоце",
+        "latitude": 41.9996644,
+        "longitude": 21.4362086,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Familijar Restaurant",
+        "latitude": 41.792839900000004,
+        "longitude": 20.909003600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Macedonska Sofra",
+        "latitude": 41.1156043,
+        "longitude": 20.8012066,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Letnica Kitchen & Bar",
+        "latitude": 41.1133047,
+        "longitude": 20.799568,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Плажа Цоца",
+        "latitude": 40.9538093,
+        "longitude": 21.0712879,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Divono",
+        "latitude": 41.0911484,
+        "longitude": 20.800019000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "4 Nova",
+        "latitude": 41.408951800000004,
+        "longitude": 22.243567000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Орфеј",
+        "latitude": 41.106693400000005,
+        "longitude": 20.8098566,
+        "phone": "075463446",
+        "website": ""
+    },
+    {
+        "name": "Гостилница Кај Спиро",
+        "latitude": 42.0766038,
+        "longitude": 22.1807625,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ла пица",
+        "latitude": 41.981962100000004,
+        "longitude": 21.4681967,
+        "phone": "+38972575756",
+        "website": "https://lapizza.mk/"
+    },
+    {
+        "name": "Rusticana",
+        "latitude": 41.8845742,
+        "longitude": 22.507257300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Roma pizza",
+        "latitude": 41.8852945,
+        "longitude": 22.5078812,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Чун",
+        "latitude": 41.112241600000004,
+        "longitude": 20.798442700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Bash Pelivan",
+        "latitude": 42.1344812,
+        "longitude": 21.7180518,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Center Lounge & Fresh Bar",
+        "latitude": 41.0289785,
+        "longitude": 21.335709400000002,
+        "phone": "+389 47 528 362",
+        "website": ""
+    },
+    {
+        "name": "Kebapcilinica RiO",
+        "latitude": 41.999319,
+        "longitude": 21.4360459,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vega",
+        "latitude": 41.999551800000006,
+        "longitude": 21.413173800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Сараево",
+        "latitude": 42.0015097,
+        "longitude": 21.438131900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Milano",
+        "latitude": 42.1328848,
+        "longitude": 21.700752400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дистрикт",
+        "latitude": 41.9961604,
+        "longitude": 21.430225,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Tako mako",
+        "latitude": 42.0005265,
+        "longitude": 21.436559900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Markt kitchen",
+        "latitude": 41.996945600000004,
+        "longitude": 21.4285563,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Sac",
+        "latitude": 42.0002543,
+        "longitude": 21.437465200000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Барик",
+        "latitude": 42.0019483,
+        "longitude": 21.4224937,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Palas",
+        "latitude": 42.002112000000004,
+        "longitude": 21.4385882,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Schpajs",
+        "latitude": 42.001708900000004,
+        "longitude": 21.421924200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Море Маниа",
+        "latitude": 41.998274900000006,
+        "longitude": 21.428305100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Plaset",
+        "latitude": 42.0016292,
+        "longitude": 21.438206100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Млечен Бар",
+        "latitude": 41.997171900000005,
+        "longitude": 21.408650700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Букет",
+        "latitude": 41.9945241,
+        "longitude": 21.424457800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Metzka",
+        "latitude": 42.0026188,
+        "longitude": 21.418640500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Laboratorium",
+        "latitude": 41.9942446,
+        "longitude": 21.4243092,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizzeria Bik",
+        "latitude": 42.002751700000005,
+        "longitude": 21.4415279,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Old Balkan",
+        "latitude": 42.001129600000006,
+        "longitude": 21.438038300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kursumli An",
+        "latitude": 42.0025774,
+        "longitude": 21.4371206,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Alpi",
+        "latitude": 41.1145687,
+        "longitude": 20.8003256,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Leopard",
+        "latitude": 41.111976000000006,
+        "longitude": 20.807878300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Amfora",
+        "latitude": 41.1103498,
+        "longitude": 20.805691500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Leonardo",
+        "latitude": 41.1123593,
+        "longitude": 20.797531300000003,
+        "phone": "+38946260359",
+        "website": "https://leonardo.mk/"
+    },
+    {
+        "name": "Centro",
+        "latitude": 41.112250800000005,
+        "longitude": 20.8070573,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizzeria",
+        "latitude": 41.1139038,
+        "longitude": 20.810733300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Orfej",
+        "latitude": 41.106913600000006,
+        "longitude": 20.80978,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Vkusno",
+        "latitude": 41.1168029,
+        "longitude": 20.7989377,
+        "phone": "+389 71 606 946",
+        "website": ""
+    },
+    {
+        "name": "Madera",
+        "latitude": 41.1079577,
+        "longitude": 20.806651600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Национал",
+        "latitude": 41.993295,
+        "longitude": 21.4352029,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Јоле",
+        "latitude": 41.9963119,
+        "longitude": 21.4282943,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Боеми",
+        "latitude": 41.1833619,
+        "longitude": 22.7230515,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Скадарлија",
+        "latitude": 42.0046693,
+        "longitude": 21.4147058,
+        "phone": "+38923052717",
+        "website": "https://restoran-skadarlija-skopje.business.site/"
+    },
+    {
+        "name": "Ресторан Република",
+        "latitude": 41.2404084,
+        "longitude": 20.5878142,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "CITYGRILL Tetove",
+        "latitude": 42.008798500000005,
+        "longitude": 20.970508600000002,
+        "phone": "+38972695000",
+        "website": ""
+    },
+    {
+        "name": "Tornado Lounge Bar",
+        "latitude": 41.748218800000004,
+        "longitude": 22.1979387,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj Zlate",
+        "latitude": 41.2047151,
+        "longitude": 21.3563264,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Pizzeria Yahoo",
+        "latitude": 41.5120237,
+        "longitude": 20.9633009,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Iceberg",
+        "latitude": 41.5106546,
+        "longitude": 20.958694700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Сансет",
+        "latitude": 40.971875700000005,
+        "longitude": 21.0605131,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Burektore Saq",
+        "latitude": 41.7912806,
+        "longitude": 20.9085717,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Леа",
+        "latitude": 41.8645123,
+        "longitude": 21.9401845,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Ти Амо",
+        "latitude": 41.8650539,
+        "longitude": 21.9427115,
+        "phone": "032 444 4446",
+        "website": "https://picerijatiamo.mk/"
+    },
+    {
+        "name": "Пијано Бар",
+        "latitude": 41.865839400000006,
+        "longitude": 21.9424303,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant & Villa Reka",
+        "latitude": 41.812831,
+        "longitude": 21.314005400000003,
+        "phone": "+38975455171",
+        "website": ""
+    },
+    {
+        "name": "Тивка Ноќ",
+        "latitude": 41.8679289,
+        "longitude": 21.9422174,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Швајцарија",
+        "latitude": 41.8680609,
+        "longitude": 21.942094400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Делфина",
+        "latitude": 41.3503836,
+        "longitude": 21.538221500000002,
+        "phone": "+38948410300",
+        "website": "https://www.facebook.com/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD-%D0%94%D0%B5%D0%BB%D1%84%D0%B8%D0%BD%D0%B0-1402052980039316/"
+    },
+    {
+        "name": "Ла Страда (Калипсо)",
+        "latitude": 41.346681800000006,
+        "longitude": 21.555100200000002,
+        "phone": "+38975410645;+38948414212",
+        "website": "https://www.facebook.com/lastradabycalypso/"
+    },
+    {
+        "name": "Леоне",
+        "latitude": 41.3465843,
+        "longitude": 21.5539582,
+        "phone": "+38948418282",
+        "website": "https://www.facebook.com/LeonePrilep/"
+    },
+    {
+        "name": "Сидро",
+        "latitude": 41.9974684,
+        "longitude": 21.4097614,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Anes Lumit",
+        "latitude": 42.024179100000005,
+        "longitude": 20.9446443,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "PIZZA Bellucci",
+        "latitude": 41.9397783,
+        "longitude": 21.5157783,
+        "phone": "+389 77 838 838",
+        "website": "https://www.facebook.com/232325386663/posts/%D0%BF%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D1%98%D0%B0-pizza-bellucci-%D0%B4%D1%80%D0%B0%D1%87%D0%B5%D0%B2%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D0%B7%"
+    },
+    {
+        "name": "Paradise Food",
+        "latitude": 41.994469300000006,
+        "longitude": 21.4277003,
+        "phone": "+389 76 424 104",
+        "website": ""
+    },
+    {
+        "name": "Езерски Рај",
+        "latitude": 41.097536500000004,
+        "longitude": 20.6352894,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај чичо 2",
+        "latitude": 42.0091204,
+        "longitude": 21.3855189,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kaj лаки",
+        "latitude": 41.578961,
+        "longitude": 21.943725800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Домини",
+        "latitude": 41.9909456,
+        "longitude": 21.4408895,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Читална",
+        "latitude": 41.0266703,
+        "longitude": 21.336792600000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Равена",
+        "latitude": 41.0273553,
+        "longitude": 21.336539100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Корзо",
+        "latitude": 41.027183,
+        "longitude": 21.3370649,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бела Куќа",
+        "latitude": 41.0282053,
+        "longitude": 21.337482100000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Качунка",
+        "latitude": 41.0245246,
+        "longitude": 21.315795400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lounge Bar Mavrovo",
+        "latitude": 41.702671200000005,
+        "longitude": 20.7579455,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Equilibrium",
+        "latitude": 41.986645100000004,
+        "longitude": 21.4542028,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гала Гарден",
+        "latitude": 41.026406800000004,
+        "longitude": 21.3355359,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "oTTo",
+        "latitude": 41.113014500000006,
+        "longitude": 20.804877400000002,
+        "phone": "+389 76 203 108",
+        "website": ""
+    },
+    {
+        "name": "Екслузив Бастион",
+        "latitude": 42.123845200000005,
+        "longitude": 21.7219653,
+        "phone": "+38970334174",
+        "website": ""
+    },
+    {
+        "name": "Kaj Tzitzo",
+        "latitude": 41.118287800000004,
+        "longitude": 20.800029600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Tacos Jam",
+        "latitude": 42.000658400000006,
+        "longitude": 21.414255500000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Боко",
+        "latitude": 41.997086700000004,
+        "longitude": 21.4171233,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Potpes",
+        "latitude": 41.1108108,
+        "longitude": 20.791588,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Centar - ZemZem",
+        "latitude": 41.178411000000004,
+        "longitude": 20.6800438,
+        "phone": "",
+        "website": "restaurantcentar.com"
+    },
+    {
+        "name": "Restaurant Adenia",
+        "latitude": 41.170999300000005,
+        "longitude": 20.698350400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Matador",
+        "latitude": 41.171136600000004,
+        "longitude": 20.699605700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кремисимо Трибина",
+        "latitude": 41.9936208,
+        "longitude": 21.523124600000003,
+        "phone": "",
+        "website": "https://cremissimo-tribina-lounge-bar.business.site/?utm_source=gmb&utm_medium=referral"
+    },
+    {
+        "name": "Потковица",
+        "latitude": 41.993367,
+        "longitude": 21.5230582,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Парчето",
+        "latitude": 41.202268000000004,
+        "longitude": 21.3567749,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Алберта",
+        "latitude": 41.7384344,
+        "longitude": 22.192162500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Paradise Valley",
+        "latitude": 41.2094971,
+        "longitude": 20.9119548,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Retro Pizza",
+        "latitude": 41.5174697,
+        "longitude": 20.5302246,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рива",
+        "latitude": 40.939088500000004,
+        "longitude": 20.9134685,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Шатор",
+        "latitude": 41.0443234,
+        "longitude": 21.2553585,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Шумски Фенери",
+        "latitude": 41.0432027,
+        "longitude": 21.2550956,
+        "phone": "+389 47 293030",
+        "website": "https://sumskifeneri.com/"
+    },
+    {
+        "name": "International Palace",
+        "latitude": 41.7170787,
+        "longitude": 21.7821824,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кај Димче",
+        "latitude": 41.7170709,
+        "longitude": 21.783002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Fisherman's House Kaneo",
+        "latitude": 41.1109565,
+        "longitude": 20.790776400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Lounge bar manaki",
+        "latitude": 41.030262900000004,
+        "longitude": 21.337054300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ckoncko",
+        "latitude": 41.9952558,
+        "longitude": 21.398719,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Marfi",
+        "latitude": 41.633666500000004,
+        "longitude": 22.4706069,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вршник",
+        "latitude": 41.3440486,
+        "longitude": 21.5536637,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Арт",
+        "latitude": 41.345337400000005,
+        "longitude": 21.554893500000002,
+        "phone": "+38948400777",
+        "website": ""
+    },
+    {
+        "name": "Баџо",
+        "latitude": 41.3464121,
+        "longitude": 21.5612511,
+        "phone": "+38970895798",
+        "website": ""
+    },
+    {
+        "name": "Бисер",
+        "latitude": 41.343274,
+        "longitude": 21.551273300000002,
+        "phone": "+38978405730",
+        "website": ""
+    },
+    {
+        "name": "Mama",
+        "latitude": 42.0005347,
+        "longitude": 21.4250341,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Medo",
+        "latitude": 42.0005187,
+        "longitude": 21.4371301,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кико",
+        "latitude": 41.019932600000004,
+        "longitude": 21.3426259,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бегера",
+        "latitude": 41.994171200000004,
+        "longitude": 21.4119491,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Дрен",
+        "latitude": 41.9971516,
+        "longitude": 21.406131600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Taj Mahal",
+        "latitude": 41.1755081,
+        "longitude": 20.6790796,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Хармес",
+        "latitude": 41.1776062,
+        "longitude": 20.674201800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ubajna",
+        "latitude": 41.175762600000006,
+        "longitude": 20.679131400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Italiano",
+        "latitude": 41.1745533,
+        "longitude": 20.6789542,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Art Caffe",
+        "latitude": 41.1754241,
+        "longitude": 20.679071200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "New York Pizza",
+        "latitude": 41.176120600000004,
+        "longitude": 20.679228400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Roma 2",
+        "latitude": 41.178152600000004,
+        "longitude": 20.6794474,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Piceria Lindi",
+        "latitude": 41.51176,
+        "longitude": 20.9640573,
+        "phone": "+389 45 216 000",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Gostilnica Vezenka",
+        "latitude": 41.994533600000004,
+        "longitude": 21.428266700000002,
+        "phone": "",
+        "website": "https://instagram.com/gostilnica_vezenka?igshid=MDM4ZDc5MmU="
+    },
+    {
+        "name": "Barcardi",
+        "latitude": 41.507546700000006,
+        "longitude": 20.9522148,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Velestovo",
+        "latitude": 41.0837312,
+        "longitude": 20.827935,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кус Кус",
+        "latitude": 41.0294535,
+        "longitude": 21.334832300000002,
+        "phone": "+389 47 222 603",
+        "website": "https://www.kuskus.mk/"
+    },
+    {
+        "name": "Аура",
+        "latitude": 41.347658200000005,
+        "longitude": 21.5561523,
+        "phone": "+38977875959",
+        "website": ""
+    },
+    {
+        "name": "Вива Ксантика",
+        "latitude": 41.112450700000004,
+        "longitude": 20.798001900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Belvedere",
+        "latitude": 41.030377400000006,
+        "longitude": 21.3353018,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Bozvil",
+        "latitude": 42.0530248,
+        "longitude": 20.8262062,
+        "phone": "+389 75 339 222",
+        "website": ""
+    },
+    {
+        "name": "Restorant Caballa",
+        "latitude": 41.702155000000005,
+        "longitude": 20.7576576,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Swiss Ranch",
+        "latitude": 41.476456600000006,
+        "longitude": 20.9854284,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Galija",
+        "latitude": 41.995985100000006,
+        "longitude": 21.434399300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Freshi",
+        "latitude": 41.983481000000005,
+        "longitude": 21.438799900000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Magic House",
+        "latitude": 41.9808322,
+        "longitude": 21.439168600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Рагуза 360",
+        "latitude": 41.9895164,
+        "longitude": 21.4320056,
+        "phone": "+38975398919;+38923212919",
+        "website": "https://ragusa360.com/"
+    },
+    {
+        "name": "Mezze Stanica 33",
+        "latitude": 41.989951600000005,
+        "longitude": 21.426928200000003,
+        "phone": "+389 72 688 333",
+        "website": "https://www.mezzestanica33.com/"
+    },
+    {
+        "name": "Restoran Niko",
+        "latitude": 40.9955395,
+        "longitude": 21.380027000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ribar",
+        "latitude": 40.961543600000006,
+        "longitude": 20.7824183,
+        "phone": "+38946284472",
+        "website": ""
+    },
+    {
+        "name": "Berlina",
+        "latitude": 41.7115383,
+        "longitude": 22.853455,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ланџ бар Бис",
+        "latitude": 42.0068785,
+        "longitude": 21.4021487,
+        "phone": "02 6148 812",
+        "website": ""
+    },
+    {
+        "name": "Oasis",
+        "latitude": 41.936312,
+        "longitude": 21.5420951,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "КОКО",
+        "latitude": 41.940273000000005,
+        "longitude": 21.513720000000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бела Вода",
+        "latitude": 41.5724461,
+        "longitude": 22.863230700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Два лава",
+        "latitude": 41.7234221,
+        "longitude": 21.769068700000002,
+        "phone": "+38978222626",
+        "website": ""
+    },
+    {
+        "name": "Ресторан ДВОР",
+        "latitude": 41.496777300000005,
+        "longitude": 20.947684300000002,
+        "phone": "+38971362090",
+        "website": ""
+    },
+    {
+        "name": "Ресторан \"Софра Велјанов“",
+        "latitude": 41.483902400000005,
+        "longitude": 22.091333600000002,
+        "phone": "+389 76 500 177",
+        "website": ""
+    },
+    {
+        "name": "Ресторан \"Чардак“",
+        "latitude": 41.4827123,
+        "longitude": 22.0908631,
+        "phone": "+389 43 363 000",
+        "website": ""
+    },
+    {
+        "name": "Cosa Nostra",
+        "latitude": 41.1121026,
+        "longitude": 20.79682,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Grosh",
+        "latitude": 42.003398700000005,
+        "longitude": 21.399689000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Алтан",
+        "latitude": 41.992518100000005,
+        "longitude": 21.416850200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пица-ресторан „Сопранови“",
+        "latitude": 41.040863800000004,
+        "longitude": 20.8054887,
+        "phone": "+38975339862",
+        "website": ""
+    },
+    {
+        "name": "Ресторан - Ски Центар Кожув",
+        "latitude": 41.1784064,
+        "longitude": 22.200118800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пицерија Верона",
+        "latitude": 41.9836827,
+        "longitude": 21.455155,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Авијатор",
+        "latitude": 41.9872479,
+        "longitude": 21.4518227,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Gastroteca Siesta",
+        "latitude": 41.9931813,
+        "longitude": 21.4296203,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kujna Brabia",
+        "latitude": 41.993124800000004,
+        "longitude": 21.4284386,
+        "phone": "+389 76 224 636",
+        "website": ""
+    },
+    {
+        "name": "Abi Doner",
+        "latitude": 42.000532500000006,
+        "longitude": 21.436453,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ei8ht",
+        "latitude": 42.0000419,
+        "longitude": 21.4373635,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Arifan",
+        "latitude": 41.999586400000005,
+        "longitude": 21.4365247,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Harmony",
+        "latitude": 41.991556800000005,
+        "longitude": 21.435675500000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Наполеон",
+        "latitude": 41.453484100000004,
+        "longitude": 22.6453448,
+        "phone": "+389 78 253 538",
+        "website": "https://napoleon.com.mk/"
+    },
+    {
+        "name": "Royal Park",
+        "latitude": 41.4530748,
+        "longitude": 22.6449336,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Amor Garden",
+        "latitude": 41.4528921,
+        "longitude": 22.6451043,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "СТАРА КУЌА Струмица",
+        "latitude": 41.4513474,
+        "longitude": 22.6442111,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Concept Food & Café Bar",
+        "latitude": 41.4430211,
+        "longitude": 22.6466283,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вардар",
+        "latitude": 41.966660600000004,
+        "longitude": 20.981695700000003,
+        "phone": "+38232311300",
+        "website": ""
+    },
+    {
+        "name": "Гурман",
+        "latitude": 42.0778675,
+        "longitude": 22.1815043,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Боними",
+        "latitude": 42.0030519,
+        "longitude": 21.4621624,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Концепт",
+        "latitude": 41.0896217,
+        "longitude": 21.0130157,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Две Лири",
+        "latitude": 41.0834956,
+        "longitude": 21.0206382,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Camp Ljubanista",
+        "latitude": 40.9249469,
+        "longitude": 20.7735385,
+        "phone": "+389 70 239 249",
+        "website": ""
+    },
+    {
+        "name": "Ресторан Саваро",
+        "latitude": 41.9380504,
+        "longitude": 22.5142677,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Romantika",
+        "latitude": 41.966695400000006,
+        "longitude": 21.1197535,
+        "phone": "+38970696025",
+        "website": ""
+    },
+    {
+        "name": "Бачило",
+        "latitude": 41.707747000000005,
+        "longitude": 22.840603,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Klas",
+        "latitude": 41.5124445,
+        "longitude": 21.2164217,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Meshko",
+        "latitude": 41.016579500000006,
+        "longitude": 20.810221900000002,
+        "phone": "+389 78 244 733",
+        "website": ""
+    },
+    {
+        "name": "Pepsito",
+        "latitude": 41.0315801,
+        "longitude": 21.336776200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Sharlo's Pizza",
+        "latitude": 41.088701,
+        "longitude": 21.014903200000003,
+        "phone": "+38978443444",
+        "website": "https://www.instagram.com/sharlos_pizza/"
+    },
+    {
+        "name": "Baking Bread",
+        "latitude": 41.9825293,
+        "longitude": 21.472419600000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "АлоАло",
+        "latitude": 41.9858692,
+        "longitude": 21.4660961,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "ќебапчилница Турист",
+        "latitude": 41.984863600000004,
+        "longitude": 21.4683144,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "ресторант Театар Комедија",
+        "latitude": 41.9944726,
+        "longitude": 21.4254539,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kafanche",
+        "latitude": 42.0028695,
+        "longitude": 21.4176071,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "VII. Kalajat",
+        "latitude": 42.0528294,
+        "longitude": 20.819469400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Ресторан „Жежо“",
+        "latitude": 41.0407099,
+        "longitude": 21.3476617,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Fast Food 10",
+        "latitude": 41.116528800000005,
+        "longitude": 20.800647400000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Cherry Lounge Bar",
+        "latitude": 42.134683200000005,
+        "longitude": 21.7176969,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пастрмајлија & Грил-хаус",
+        "latitude": 41.9867219,
+        "longitude": 21.4654469,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Маратонец",
+        "latitude": 41.988535000000006,
+        "longitude": 21.4533783,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Foleja e Shqiponjave",
+        "latitude": 42.052638900000005,
+        "longitude": 20.827666100000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Moja Kyka",
+        "latitude": 41.990317000000005,
+        "longitude": 21.4537665,
+        "phone": "+38170318504",
+        "website": ""
+    },
+    {
+        "name": "Gostilnica Neim",
+        "latitude": 41.1167692,
+        "longitude": 20.7985362,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гостилница \"Баба и деде\"",
+        "latitude": 41.5938766,
+        "longitude": 20.658407800000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Kajmama (take away mom's food)",
+        "latitude": 41.989273000000004,
+        "longitude": 21.4533115,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "SALUD",
+        "latitude": 41.99758,
+        "longitude": 21.417059000000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Senor Truco",
+        "latitude": 41.4947047,
+        "longitude": 22.0969944,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Big Fish",
+        "latitude": 41.989647600000005,
+        "longitude": 21.459692,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Dion Cafe Restaurant",
+        "latitude": 41.9816729,
+        "longitude": 21.4561008,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Мрестилиште",
+        "latitude": 40.961441,
+        "longitude": 20.782012700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Салида",
+        "latitude": 41.3547236,
+        "longitude": 21.5399132,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Taverna Toscana",
+        "latitude": 41.9961659,
+        "longitude": 21.409028300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Dolce Vita",
+        "latitude": 41.1144247,
+        "longitude": 20.811449200000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "CONNECT Kitchen & Bar",
+        "latitude": 41.0237232,
+        "longitude": 21.3393947,
+        "phone": "+38979276664",
+        "website": "https://www.facebook.com/connectkb.mk"
+    },
+    {
+        "name": "Гуд Фелас",
+        "latitude": 41.344555400000004,
+        "longitude": 21.5532155,
+        "phone": "+38948400705",
+        "website": ""
+    },
+    {
+        "name": "Саат Кула",
+        "latitude": 41.344153000000006,
+        "longitude": 21.552175000000002,
+        "phone": "+38948419888",
+        "website": ""
+    },
+    {
+        "name": "Вила Малуш",
+        "latitude": 41.309626,
+        "longitude": 21.5038853,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фонтана Венеција",
+        "latitude": 41.9863956,
+        "longitude": 21.437230800000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Фонтана",
+        "latitude": 41.9863426,
+        "longitude": 21.437253700000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Досие Скопје",
+        "latitude": 41.9872369,
+        "longitude": 21.436302400000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кочва Мала",
+        "latitude": 41.177077600000004,
+        "longitude": 20.6777167,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "СОМА",
+        "latitude": 41.9979224,
+        "longitude": 21.3981473,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Trend Burger & Pizza",
+        "latitude": 41.126087500000004,
+        "longitude": 20.8155022,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Snak",
+        "latitude": 42.0033334,
+        "longitude": 21.417269700000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кафана Трпеза",
+        "latitude": 41.979078,
+        "longitude": 21.47878,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Спортска меана",
+        "latitude": 41.9787647,
+        "longitude": 21.478165200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Beer Ti & Ja",
+        "latitude": 41.349799700000005,
+        "longitude": 21.5711455,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Brenda",
+        "latitude": 41.999535900000005,
+        "longitude": 21.4362706,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Healthy Junk Food Corner 888",
+        "latitude": 41.997323800000004,
+        "longitude": 21.417067600000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "БАШО",
+        "latitude": 41.3165722,
+        "longitude": 22.5564436,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Пица 5",
+        "latitude": 41.986630500000004,
+        "longitude": 21.479711700000003,
+        "phone": "022434449",
+        "website": ""
+    },
+    {
+        "name": "Boemska Kafeana",
+        "latitude": 42.0016349,
+        "longitude": 21.4221986,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Гиро Милос",
+        "latitude": 41.0309882,
+        "longitude": 21.333367900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Трокадеро",
+        "latitude": 41.9897186,
+        "longitude": 21.458486500000003,
+        "phone": "+389 78 995 121",
+        "website": ""
+    },
+    {
+        "name": "Alpine Grill",
+        "latitude": 42.0132885,
+        "longitude": 20.88044,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Бамби",
+        "latitude": 41.951301,
+        "longitude": 21.1207578,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Кутлеш",
+        "latitude": 41.9892514,
+        "longitude": 21.4486044,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Вито",
+        "latitude": 41.0863193,
+        "longitude": 21.011255300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Restaurant Ilirida",
+        "latitude": 41.6540333,
+        "longitude": 21.0162012,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Picikato",
+        "latitude": 41.5123686,
+        "longitude": 20.958481300000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Тајна Вечера",
+        "latitude": 41.751418300000005,
+        "longitude": 22.1979526,
+        "phone": "+38932395568",
+        "website": ""
+    },
+    {
+        "name": "Patara",
+        "latitude": 42.0067631,
+        "longitude": 20.9685972,
+        "phone": "+389 71 503 190",
+        "website": "https://maps.app.goo.gl/JBqJfq8eqRoWz1S2A?g_st=ac"
+    },
+    {
+        "name": "Заветна",
+        "latitude": 41.9849173,
+        "longitude": 21.4651931,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Tomato",
+        "latitude": 41.1126425,
+        "longitude": 20.798875300000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Velvet Bar & Kitchen",
+        "latitude": 41.150377000000006,
+        "longitude": 22.513989900000002,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Royal Club Zelenezburg",
+        "latitude": 41.8878489,
+        "longitude": 21.585791200000003,
+        "phone": "",
+        "website": ""
+    },
+    {
+        "name": "Комитски Конак",
+        "latitude": 41.9984674,
+        "longitude": 22.1344923,
+        "phone": "",
+        "website": "https://komitskikonak.mk/"
+    },
+    {
+        "name": "Hotel Scardus",
+        "latitude": 42.0159924,
+        "longitude": 20.8812494,
+        "phone": "",
+        "website": ""
+    }
+]

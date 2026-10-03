@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:id="@+id/scrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_repeat"
+        tools:context=".RegisterBusinessActivity">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.05"/>
+
+        <com.example.tastee.SimpleWaveView
+            android:id="@+id/wave"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:transitionName="wave_shared"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/guideline"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/tasteeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sora_light"
+            android:text="Tastee"
+            android:textColor="@color/white"
+            android:textSize="65dp"
+            app:layout_constraintBottom_toBottomOf="@+id/wave"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline"
+            app:layout_constraintVertical_bias="0.200" />
+
+        <EditText
+            android:id="@+id/nameInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Business Name"
+            android:textColor="@color/white"
+            android:inputType="text"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/tasteeTextView"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/emailInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Business Email"
+            android:textColor="@color/white"
+            android:inputType="textEmailAddress"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/nameInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/locationInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Enter Address or Coordinates"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:clickable="true"
+            android:inputType="textPostalAddress"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/emailInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/phoneNumberInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/locationInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/workingHoursInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Working Hours (Select Time)"
+            android:focusable="false"
+            android:clickable="true"
+            android:inputType="none"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/phoneNumberInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/descriptionInput"
+            android:layout_width="331dp"
+            android:layout_height="80dp"
+            android:gravity="top|start"
+            android:inputType="textMultiLine"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Description"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/workingHoursInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/logoInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Select Logo Image"
+            android:focusable="false"
+            android:clickable="true"
+            android:inputType="none"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/descriptionInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <EditText
+            android:id="@+id/coverInput"
+            android:layout_width="331dp"
+            android:layout_height="48dp"
+            android:backgroundTint="#80FFFFFF"
+            android:ems="10"
+            android:hint="Select Cover Image"
+            android:focusable="false"
+            android:clickable="true"
+            android:inputType="none"
+            android:textColor="@color/white"
+            android:textColorHint="#80FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.481"
+            app:layout_constraintStart_toStartOf="@+id/wave"
+            app:layout_constraintTop_toBottomOf="@+id/logoInput"
+            app:layout_constraintVertical_bias="0.067" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/registerButton"
+            android:layout_width="235dp"
+            android:layout_height="54dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/transparent"
+            app:strokeColor="@color/white"
+            app:strokeWidth="1dp"
+            android:textSize="20dp"
+            app:cornerRadius="24dp"
+            android:text="Register"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="32dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/coverInput"
+            app:layout_constraintVertical_bias="0.4" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
